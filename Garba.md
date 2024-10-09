@@ -1,0 +1,26 @@
+- Food
+	- Punjabi Saak
+		- Paneer Tikka Masala
+	- Gujarati Saak
+		- Main Dish
+			- Undhiyu
+			- Kadhi Bhaat
+			- Lochar Poori
+		- Appetizer
+			- Papad Papdi
+			- Rataru Poori
+			- Khaman/Sev
+			- Athaanu
+			- Kachumbar
+		- Desert
+			- Shrikhand (ask for Rava Poori)
+	- Non Veg
+- Location
+	- City of Willits Hall
+- Price
+	- 451 Per Person
+- Date
+	- November 9th, 2024
+	- 6 - 10 PM
+
+
